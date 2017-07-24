@@ -32,6 +32,4 @@ npm install
 ```
 
 > You're done installing! Now let's get started developing.
-=======
-# preact-starter
->>>>>>> master
+
