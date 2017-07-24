@@ -1,7 +1,5 @@
 # Preact Starter Kit 
 
-# Quick-Start Guide
-
 - [Installation](#installation)
 
 
